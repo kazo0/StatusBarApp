@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"StatusBarApp.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"StatusBarApp.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

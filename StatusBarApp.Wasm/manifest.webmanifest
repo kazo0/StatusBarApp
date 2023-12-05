@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "StatusBarApp",
+  "display": "standalone",
+  "name": "StatusBarApp",
+  "short_name": "StatusBarApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
